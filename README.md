@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Anagha Sethuraman</h1>
-<h3 align="center">A passionate full-stack developer graduated with a Masters in Software Engineering from San Jose State University, California</h3>
+<h3 align="center">A passionate full-stack developer graduated with a Masters in Software Engineering from San Jose State University, California, currently contributing to the development of applications at IBM.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/anaghasethuraman01?tab=repositories](https://github.com/anaghasethuraman01?tab=repositories)
 
