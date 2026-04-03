@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Anagha Sethuraman</h1>
-<p align="left">Results-driven Frontend Developer with 4+ years of experience creating responsive, user-centric web applications. 
+<p align="left">Results-driven Frontend Developer with 5 years of experience creating responsive, user-centric web applications. 
   Most recently contributed to enterprise solutions at IBM, focusing on modern JavaScript frameworks, scalable architecture, and Agile development practices. Proven ability to enhance user experience, deliver high-quality products, and collaborate effectively across cross-functional teams.</p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/anaghasethuraman01?tab=repositories](https://github.com/anaghasethuraman01?tab=repositories)
